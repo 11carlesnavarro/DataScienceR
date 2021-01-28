@@ -1,4 +1,3 @@
-# DataScienceR
-Data science course from Coursera. John Hopkins University
+# Introdiction to python
 
-In this repository there will be uploaded all the R scripts done to solve the Assignments of the Data Science Specialization with R from Coursera. 
+In this repository i will upload all the assignments from my masters subject Introduction to Python.
