@@ -1,7 +1,7 @@
 
 
 def FASTA_iterator(fasta_filename):
-    "Reads a fasta file and return a tuple (identifier, sequence"
+    "Reads a fasta file and return a tuple (identifier, sequence)"
     fasta_sequences = open(fasta_filename,"r")
     identifier = None
     sequence = []
